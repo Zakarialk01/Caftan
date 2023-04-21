@@ -1,0 +1,56 @@
+
+  {
+    "data": [
+      {
+        "name": "Caftan Azur",
+        "image": "./assets/1276.jpg",
+        "price": "150 euros"
+       
+      },
+      {
+        "name": "caftan Bleu",
+        "image": "./assets/1277.jpg",
+        "price": "120 euros"
+        
+      },
+  
+      {
+        "name": "Kimono Rose",
+        "image": "./assets/1278.jpg",
+        "price": "250 euros"
+        
+      },
+      {
+        "name": "Kimono Zelij",
+        "image": "./assets/1282.jpg",
+        "price": "100 euros"
+        
+      },  
+      {
+        "name": "Caftan Azurq",
+        "image": "./assets/1283.jpg",
+        "price": "150 euros"
+       
+      },
+      {
+        "name": "caftan Bleus",
+        "image": "./assets/1279.jpg",
+        "price": "120 euros"
+        
+      },
+  
+      {
+        "name": "Kimono Rosea",
+        "image": "./assets/1280.jpg",
+        "price": "250 euros"
+        
+      },
+      {
+        "name": "Kimono Zelijz",
+        "image": "./assets/1281.jpg",
+        "price": "100 euros"
+        
+      }
+    
+    ]
+  }
